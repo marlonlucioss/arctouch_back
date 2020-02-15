@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+arctouch_back.iml
+package-lock.json
+
 # testing
 /coverage
 
